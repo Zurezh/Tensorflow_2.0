@@ -1,5 +1,8 @@
 # Tensorflow_2.0
-TensorFlow 2.0 has introduced many features that simplify the model development and maintenance processes. From the educational side, it boosts people's understanding by simplifying many complex concepts. From the industry point of view, models are much easier to understand, maintain, and develop. 
+TensorFlow 2.0 has introduced many features that simplify the model development and maintenance processes. 
+
+From the educational side, it boosts people's understanding by simplifying many complex concepts. 
+From the industry point of view, models are much easier to understand, maintain, and develop. 
 
 - Colab 2 - TensorFlow 2.0 Basics
 - Colab 3 - Building an Artificial Neural Network in TensorFlow 2.0
@@ -13,5 +16,5 @@ TensorFlow 2.0 has introduced many features that simplify the model development 
 - Colab 13 - Preparing a TensorFlow model for Android/iOS devices (TensorFlow Lite)
 - Colab 14 - Distributed Training of TensorFlow 2.0 models
 
-Deep Learning is one of the fastest growing areas of Artificial Intelligence. In the past few years, we have proven that Deep Learning 
+Deep Learning is one of the fastest growing areas of Artificial Intelligence. In the past few years, It have proven that Deep Learning 
 models, even the simplest ones, can solve very hard and complex tasks.
